@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A-Henriquez/personal-website-project/static/css/main.3eb07276.css",
+    "main.js": "/A-Henriquez/personal-website-project/static/js/main.048b1429.js",
+    "index.html": "/A-Henriquez/personal-website-project/index.html",
+    "main.3eb07276.css.map": "/A-Henriquez/personal-website-project/static/css/main.3eb07276.css.map",
+    "main.048b1429.js.map": "/A-Henriquez/personal-website-project/static/js/main.048b1429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb07276.css",
+    "static/js/main.048b1429.js"
+  ]
+}
