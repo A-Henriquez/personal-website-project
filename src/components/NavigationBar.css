@@ -1,0 +1,29 @@
+.custom-navbar {
+    background: rgba(134, 241, 171, 0.526);
+    backdrop-filter: blur(15px);
+    border-bottom: none;
+    padding: 8px 16px;
+}
+
+.nav-link{
+
+    color: #d887a7;
+    margin-left: 24px;
+    font-weight: 500;
+    transition: color 0.3s ease, transform 0.2s ease;
+
+}
+
+.nav-link:hover {
+    color: #c2186a;
+    transform: translateY(-2px);
+    
+}
+
+.navbar-toggle {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
